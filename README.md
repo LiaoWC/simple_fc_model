@@ -108,7 +108,3 @@ From the next two graphs, we may consider more complicated models fit this linea
 
 ![](img/o_e_5.png)
 
-## API Usage
-```
-
-```

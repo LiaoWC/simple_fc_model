@@ -1,5 +1,11 @@
 # Fully-Connected Model from Scratch
 
+Outline:
+- Goal
+- Model (NN, weight init, activation func, loss func, bp)
+- Testing Results
+- Other Experiments
+
 ## Goal
 Classify input data by doing backpropagation and renewing model parameters. Models are built from scratch, **without** using deep learning framework such as Tensorflow and PyTorch.
 
